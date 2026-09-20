@@ -21,7 +21,7 @@ This is the first public-pilot release. Core features for thalassemia transfusio
 
 - iOS build not yet available
 - Photo-based transfusion bag scanning is disabled in this build (feature returning in v0.2)
-- Real clinician sign-up requires admin provisioning; contact your-email@example.com to be added
+- Real clinician sign-up requires admin provisioning.
 - Push notifications for overdue thresholds are not in this release
 
 ## Install
